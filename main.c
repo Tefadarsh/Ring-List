@@ -19,7 +19,7 @@ int main()
     add(8);
     add(9);
     add(10);
-    add(12);
+    add(11);
 //
 //    printf("%d",getndexFromData(16));
 
